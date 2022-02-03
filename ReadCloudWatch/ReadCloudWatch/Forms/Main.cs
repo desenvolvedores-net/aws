@@ -1,7 +1,7 @@
 ﻿using Amazon;
 using Amazon.CloudWatchLogs.Model;
 using ReadCloudWatch.Describers;
-using ReadCloudWatch.Forms.Scope;
+using ReadCloudWatch.Scope;
 using System;
 using System.Linq;
 using System.Threading.Tasks;

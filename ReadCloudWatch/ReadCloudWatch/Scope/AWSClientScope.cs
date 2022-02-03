@@ -4,7 +4,7 @@ using Amazon.Runtime;
 using Amazon.Runtime.CredentialManagement;
 using System;
 
-namespace ReadCloudWatch.Forms.Scope
+namespace ReadCloudWatch.Scope
 {
     internal class AWSClientScope : IDisposable
     {
